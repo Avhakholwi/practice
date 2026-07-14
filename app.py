@@ -10,7 +10,7 @@ models = {
     "CatBoost": joblib.load("catboost_model.pkl")
 }
 
-st.title("🏠 House Rent Prediction App")
+st.title("🏠 House Rent Prediction App Avhakholwi")
 
 # Model selection
 selected_model_name = st.selectbox(
