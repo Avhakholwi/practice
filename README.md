@@ -1,1 +1,1 @@
-**Avhakholwi News classification project**
+**Avhakholwi regression project**
